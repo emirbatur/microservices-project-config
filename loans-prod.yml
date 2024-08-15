@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Loans Microservice Production Stage"
+  contactDetails:
+    name: "Emir Batur"
+    email: "emir.batur@std.yildiz.edu.tr"
+  onCallSupport:
+    - "+90 531 318 19 98"
+    - "+90 541 181 16 13"

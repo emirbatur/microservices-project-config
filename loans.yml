@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Loans Microservice Default Stage"
+  message: "Loans Microservice"
   contactDetails:
     name: "Emir Batur"
     email: "emir.batur@ngc.com.tr"
